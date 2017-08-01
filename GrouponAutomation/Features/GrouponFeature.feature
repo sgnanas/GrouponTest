@@ -3,7 +3,7 @@
 		 I want to be able to create a Groupon Account
 
 Background: Navigate to the Groupon Home Page
-	Given I go to the Groupon Home Page
+	Given I go to the Groupon HomePage
 
 @SMOKE
 Scenario: Successful Groupon Account

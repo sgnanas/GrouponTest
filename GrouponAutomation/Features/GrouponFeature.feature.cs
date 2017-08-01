@@ -65,7 +65,7 @@ namespace GrouponAutomation.Features
         {
 #line 5
 #line 6
- testRunner.Given("I go to the Groupon Home Page", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+ testRunner.Given("I go to the Groupon HomePage", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
         }
         
