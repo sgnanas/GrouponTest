@@ -20,7 +20,6 @@ namespace GrouponAutomation.Steps
 
         IWebDriver driver = ScenarioContext.Current.Get<IWebDriver>("IWebDriver");
         
-
         [Given(@"I go to the Groupon HomePage")]
         public void GivenIGoToTheGrouponHomePage()
         {
